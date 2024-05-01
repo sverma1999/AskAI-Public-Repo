@@ -1,0 +1,17 @@
+# urllib3==2.0
+# jmespath==1.0.1
+# python-dateutil==2.9
+python-dotenv
+transformers
+langchain
+ipython
+streamlit
+# torch
+# bitsandbytes
+# accelerate
+
+# accelerate
+# bitsandbytes
+# transformers
+# torch
+# python-dotenv
