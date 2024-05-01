@@ -66,9 +66,12 @@ streamlit run MedAdvice.py
 ~/.cache/huggingface/hub/
 ```
 
+### Sample output:
+![image](Experiments/Backend/SampleOutput.png)
+
 
 ### Note:
-- I am using Mistral model and not use OpenAI or other models that require me to make use of LangChain, but you can easily add them to the code.
+- I am using Mistral model and not OpenAI or other models that require me to make use of LangChain, but you can easily add them to the code.
 - I have provided sample snippet for using LangChain for the GPT model in the `MedAdvice.py` file.
 
    
