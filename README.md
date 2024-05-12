@@ -75,3 +75,10 @@ streamlit run MedAdvice.py
 - I have provided sample snippet for using LangChain for the GPT model in the `MedAdvice.py` file.
 
    
+
+### Next to do:
+- Experiment with different gaurdrails options:
+    - NeMO (NVIDIA)
+    - Gorrila
+    - Gaurdrails AI
+- RAG: Look into Retrieval augmented models for better performance and avoid hallucinations.
