@@ -82,3 +82,31 @@ streamlit run MedAdvice.py
     - Gorrila
     - Gaurdrails AI
 - RAG: Look into Retrieval augmented models for better performance and avoid hallucinations.
+
+
+
+# Bot_1: env = experiments_bot_1
+- Packaged installed and ready to code.
+pip install --upgrade botocore urllib3 and pip install awscli==1.32.18
+
+- pip install streamlit
+- pip install audio-recorder-streamlit
+- pip install openai
+
+
+
+# Bot_2: env = experiments_bot_2
+- Packaged installed and ready to code. AddiionallyI had o run two commands:
+ 
+- pip install streamlit
+- pip install audio-recorder-streamlit
+- pip install openai
+
+
+# Bot_3: env = experiments_bot_3
+
+install saparatly:
+- pip install streamlit
+- pip install audio-recorder-streamlit
+- pip install openai
+

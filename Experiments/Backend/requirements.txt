@@ -6,6 +6,8 @@ transformers
 langchain
 ipython
 streamlit
+pyaudio
+soundfile
 # torch
 # bitsandbytes
 # accelerate
