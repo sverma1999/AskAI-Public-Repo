@@ -1,0 +1,9 @@
+langchain_core
+streamlit
+langchain_community
+langserve
+beautifulsoup4
+langchain-groq
+groq
+bs4
+faiss-cpu

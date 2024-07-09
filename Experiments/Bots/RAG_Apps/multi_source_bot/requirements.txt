@@ -1,0 +1,15 @@
+pypdf
+langchain_openai 
+langchain_core
+python-dotenv
+langchain_community
+langserve
+bs4
+faiss-cpu
+groq
+beautifulsoup4
+wikipedia
+arxiv
+langchainhub
+PyPDF2
+langchain-objectbox
