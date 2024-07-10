@@ -167,3 +167,4 @@ credentials.txt
 requirements_old.txt
 *.env
 Experiments/Bots/practice_guardrails.ipynb
+personal_notes.md

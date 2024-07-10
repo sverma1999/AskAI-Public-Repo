@@ -14,7 +14,9 @@ The main repository is private (for confidentiality), but feel free to request t
 
 
 
-# Go Inside Experiments/Bots
+# Go Inside `Experiments/Bots` to check NemoGuardrails
+
+`practice.ipynb` also contains the code for the NemoGuardrails trails.
 
 ## Bot_1_and_3
 This folder contains two bots to have live speech to speech conversation with human.
@@ -25,16 +27,28 @@ Bot 2 uses Deepgram for speech to text and ElevenLabs for text to speech convers
 This bot uses streamlit for the user interface and transcribes the speech to text using audio_recorder and base64 libraries.
 
 
-## NemoGuardrails
 
-practice.ipynb contains the code for the NemoGuardrails trails.
 
-### Environment Setup
+# RAG Applications
 
-```bash
-conda create -n nemoGuardrails python=3.10 -y
-conda activate nemoGuardrails
-pip install -r requirements.txt
+
+## RAG_Apps Folder contains:
+
+### 1. multi_source_bot
+![image](Experiments/Bots/RAG_Apps/multi_source_bot/demo_pictures/msd.png)
+
+### 2. langsmith_info_bot
+![image](Experiments/Bots/RAG_Apps/langsmith_info_bot/demo_pictures/lansi.png)
+### 3. pdf_info_search
+![image](Experiments/Bots/RAG_Apps/pdf_info_search/demo_pictures/pdf_demo.png)
+
+
+### 4. philosopher_bot
+Question: *"In the given context, what is the most important to allow the brain and provide me the tags?"*
+
+![image](Experiments/Bots/RAG_Apps/philosopher_chatbot/demo_pictures/phil_bot.png)
+
+
+```diff
+More coming soon...
 ```
-
-
